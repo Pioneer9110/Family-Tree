@@ -3,7 +3,7 @@
 A responsive family tree built with **HTML**, **CSS**, **JavaScript** and **D3.js**.  
 It dynamically renders relationships from a JSON dataset, supports spouse and child connectors and highlights the full lineage on hover.
 
-![Preview Screenshot](./preview.png) <!-- Replace with an actual screenshot if available -->
+![Preview Screenshot](./User-attachments/Family-Tree_SS.png) <!-- Replace with an actual screenshot if available -->
 
 ## Features
 
@@ -22,7 +22,7 @@ It dynamically renders relationships from a JSON dataset, supports spouse and ch
 ├── style.css # Styles for nodes, lines, and layout
 ├── script-forest.js # Main JavaScript logic (D3.js rendering)
 ├── people.json # Family data source
-├── Photos/ # Optional profile images
+├── Photos/ # Profile images
 └── README.md # Project documentation
 ```
 
@@ -42,8 +42,7 @@ cd family-tree
 - Open the ```index.html``` file in your preferred browser to view the Family Tree. Requires the use of Live server in VS Code or a HTTP server for JSON fetch to work.
 
 ## Live Demo
-Once deployed via GitHub Pages, your project will be available here:
-https://YOUR-USERNAME.github.io/family-tree
+https://c215568f.family-tree-3ib.pages.dev/
 
 ## Built With
 - D3.js

@@ -5,8 +5,6 @@ It dynamically renders relationships from a JSON dataset, supports spouse and ch
 
 ![Preview Screenshot](./preview.png) <!-- Replace with an actual screenshot if available -->
 
----
-
 ## Features
 
 - **Dynamic Data-Driven Layout** – Renders family tree structure directly from a JSON dataset.
@@ -16,8 +14,6 @@ It dynamically renders relationships from a JSON dataset, supports spouse and ch
 - **Zoom & Pan** – Navigate large trees with ease.
 - **Responsive Design** – Scales to different screen sizes.
 - **Lightweight & Fast** – Pure HTML/CSS/JS with no heavy build steps.
-
----
 
 ## Project Structure
 ```bash
@@ -29,8 +25,6 @@ It dynamically renders relationships from a JSON dataset, supports spouse and ch
 ├── Photos/ # Optional profile images
 └── README.md # Project documentation
 ```
-
----
 
 ## Getting Started
 
@@ -46,13 +40,10 @@ cd family-tree
 
 ### 3. Open in your Browser
 - Open the ```index.html``` file in your preferred browser to view the Family Tree. Requires the use of Live server in VS Code or a HTTP server for JSON fetch to work.
----
 
 ## Live Demo
 Once deployed via GitHub Pages, your project will be available here:
 https://YOUR-USERNAME.github.io/family-tree
-
----
 
 ## Built With
 - D3.js
